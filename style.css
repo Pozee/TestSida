@@ -23,7 +23,7 @@ main {
   margin-top: 5px;
   display: flex;
   align-items: center;
-  min-height: 50%;
+  flex: 1 1 auto;
   margin-top: 10%;
 }
 main h1 {
