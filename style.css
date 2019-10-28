@@ -18,8 +18,9 @@ main strong {
   text-decoration: underline;
 }
 main {
+  flex-direction: column;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: center;
   margin-top: 5px;
   display: flex;
   align-items: center;
@@ -43,6 +44,7 @@ main ul li {
 }
 
 .shop-btn {
+  margin-top: 5em;
   display: flex;
   border: solid 4px rgb(255, 60, 60);
   width: 300px;
