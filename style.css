@@ -70,23 +70,3 @@ main ul li {
   color: rgb(223, 223, 223);
   transition: all 0.3s ease 0s;
 }
-.background {
-  margin-top: 10em;
-  display: flex;
-  justify-content: space-evenly;
-  flex-wrap: wrap;
-  align-items: center;
-  position: relative;
-  background-color: rgb(223, 223, 223);
-  width: 100%;
-  min-height: 369px;
-  -webkit-box-shadow: 0px -1px 2px 1px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px -1px 2px 1px rgba(0, 0, 0, 0.5);
-  -webkit-box-shadow: 0px 1px 2px 1px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 1px 2px 1px rgba(0, 0, 0, 0.5);
-}
-
-.customer-reviews {
-  color: black;
-  font-family: "lato", sans-serif;
-}
